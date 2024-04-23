@@ -1,4 +1,4 @@
-# Informatica2 R2052 - Año 2024
+# Informática 2 R2052 - Año 2024
 Bienvenidos al repo de Informática 2 de Ingeniería Electrónica en UTN FRBA.
 Este espacio ha sido diseñado para proporcionar a los estudiantes acceso a una variedad de recursos educativos que complementarán su aprendizaje durante el curso.
 
@@ -20,6 +20,20 @@ Para que puedas seguir adecuadamente las prácticas y ejercicios propuestos en e
 - [VS Code](https://code.visualstudio.com/Download)
 - [MCUXpresso](https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE)
 []()
+
+### Guías de instalación
+
+#### Guía de instalación de QT Creator
+
+Proximamente...
+
+#### Guía de instalación de VS Code
+
+Proximamente...
+
+#### Guía de instalación de MCUXpresso
+
+Proximamente...
 
 ## Uso del Repositorio
 
