@@ -23,16 +23,6 @@ Para que puedas seguir adecuadamente las prácticas y ejercicios propuestos en e
 
 ### Guías de instalación
 
-#### Guía de instalación de QT Creator
-
-Proximamente...
-
-#### Guía de instalación de VS Code
-
-Proximamente...
-
-#### Guía de instalación de MCUXpresso
-
 Proximamente...
 
 ## Uso del Repositorio
