@@ -2,9 +2,8 @@
 Bienvenidos al repo de Informática 2 de Ingeniería Electrónica en UTN FRBA.
 Este espacio ha sido diseñado para proporcionar a los estudiantes acceso a una variedad de recursos educativos que complementarán su aprendizaje durante el curso.
 
-## Índice
+### Índice
 
-* [Índice](#índice)
 * [Contenido del Repositorio](#contenido-del-repositorio)
 * [Herramientas y Software](#herramientas-y-software)
 * [Uso del Repositorio](#uso-del-respositorio)
