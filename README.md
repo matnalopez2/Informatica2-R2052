@@ -9,8 +9,8 @@ Este espacio ha sido diseñado para proporcionar a los estudiantes acceso a una 
 * [Herramientas y Software](#herramientas-y-software)
 * [Uso del Repositorio](#uso-del-respositorio)
 * [Información de interés](#información-de-interés)
-		* [Resumen sobre GIT](#resumen-sobre-git)
-		* [Repositorios de Gustavo](#repositorios-de-gustavo)
+	* [Resumen sobre GIT](#resumen-sobre-git)
+	* [Repositorios de Gustavo](#repositorios-de-gustavo)
 * [Licencia](#licencia)
 
 
