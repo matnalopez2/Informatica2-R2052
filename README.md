@@ -45,7 +45,7 @@ Este material está destinado exclusivamente para uso educativo por parte de los
 Tutorial en este [video](https://www.youtube.com/watch?v=kEPF-MWGq1w&ab_channel=PeladoNerd) de Youtube del PeladoNerd
 
 Comandos más utilizados:
-- ´git clone REPOSITORIO´: Hace una copia del REPOSITORIO en tu computadora.
+- 'git clone REPOSITORIO': Hace una copia del REPOSITORIO en tu computadora.
 - ´git status´: Te dice qué cambios has hecho en tus archivos desde la última vez que guardaste.
 - ´git add .´: Agrega todos los cambios que has hecho a la lista de cosas que quieres guardar.
 - ´git commit -m "MENSAJE"´: Guarda los cambios que has añadido a la lista con un MENSAJE que describe qué cambios hiciste.
