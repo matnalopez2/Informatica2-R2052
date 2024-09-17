@@ -48,8 +48,6 @@ PubSubClient client(mqtt_server, mqtt_port, wifiClient);
 
 long lastMsg = 0;
 char msg[50];
-long int value = 0;
-float corriente=0;
 
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);                                 // Inicializamos el pin BUILTIN_LED como salida
