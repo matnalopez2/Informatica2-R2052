@@ -31,8 +31,7 @@ const char* ssid          = "NOMBRE_RED_WIFI";                  // Nombre de tu 
 const char* password      = "CONTRASEÑA_RED_WIFI";              // Contraseña de tu red wifi
 
 //const char* mqtt_server = "192.168.0.100";                    // IP donde corre el broker MQTT.
-const char* mqtt_server   = "186.22.239.145";                   // IP donde corre el broker MQTT.
-//const char* mqtt_server = "mqtt.matnalopez.com.ar";           // IP donde corre el broker MQTT.
+const char* mqtt_server   = "mqtt.matnalopez.com.ar";           // Dominio donde corre el broker MQTT.
 const int   mqtt_port     = 1883;                               // Puerto donde corre el broker MQTT. 1883 inseguro - 8883 con SSL 
 
 const char* clientID      = "NODEMCU";
