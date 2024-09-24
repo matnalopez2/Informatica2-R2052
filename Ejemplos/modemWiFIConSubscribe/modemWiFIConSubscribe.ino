@@ -22,7 +22,6 @@
   - Select your ESP8266 in "Tools -> Board"
 
 */
-
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
